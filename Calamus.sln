@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calamus.AppHost", "Calamus.AppHost\Calamus.AppHost.csproj", "{952CFD23-95DB-41CB-A41E-74B98C3381E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calamus.ServiceDefaults", "Calamus.ServiceDefaults\Calamus.ServiceDefaults.csproj", "{38ADE1AE-F26F-4AF4-9899-8AD11277FF85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calamus.Bot", "Calamus.Bot\Calamus.Bot.csproj", "{20556C46-4D02-4D05-AACC-FE426F80AADB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calamus.Database", "Calamus.Database\Calamus.Database.csproj", "{0DAA3CF6-6B00-40B4-8995-28F8F8CB3717}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{952CFD23-95DB-41CB-A41E-74B98C3381E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{952CFD23-95DB-41CB-A41E-74B98C3381E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{952CFD23-95DB-41CB-A41E-74B98C3381E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{952CFD23-95DB-41CB-A41E-74B98C3381E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38ADE1AE-F26F-4AF4-9899-8AD11277FF85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38ADE1AE-F26F-4AF4-9899-8AD11277FF85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38ADE1AE-F26F-4AF4-9899-8AD11277FF85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38ADE1AE-F26F-4AF4-9899-8AD11277FF85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20556C46-4D02-4D05-AACC-FE426F80AADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20556C46-4D02-4D05-AACC-FE426F80AADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20556C46-4D02-4D05-AACC-FE426F80AADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20556C46-4D02-4D05-AACC-FE426F80AADB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DAA3CF6-6B00-40B4-8995-28F8F8CB3717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DAA3CF6-6B00-40B4-8995-28F8F8CB3717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DAA3CF6-6B00-40B4-8995-28F8F8CB3717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DAA3CF6-6B00-40B4-8995-28F8F8CB3717}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
