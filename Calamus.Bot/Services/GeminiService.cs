@@ -12,7 +12,7 @@ public class GeminiService(IOptions<GeminiConfig> config)
     {
         try
         {
-            var model = _ai.GenerativeModel(model: "gemini-2.0-flash-lite");
+            var model = _ai.GenerativeModel(model: "gemini-2.5-flash");
             var response = await model.GenerateContent(prompt);
             return $"{response.Text}";
         }
